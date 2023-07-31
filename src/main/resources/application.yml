@@ -1,0 +1,4 @@
+rate-limiter:
+    requestLimit: 5 # requests per timePeriod
+    timePeriod: 1 #In minutes
+
